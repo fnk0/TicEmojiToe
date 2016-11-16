@@ -96,10 +96,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             if (handleMove(btn)) {
                 if (playerTurn == 1) {
                     playerTurn = 2;
-                    btn.setImageResource(R.drawable.e4);
+                    btn.setImageResource(R.drawable.e2);
                 } else {
                     playerTurn = 1;
-                    btn.setImageResource(R.drawable.e8);
+                    btn.setImageResource(R.drawable.e3);
                 }
             }
         }
