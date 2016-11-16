@@ -41,4 +41,4 @@ After the project has been created we have something liks this now:
  
 Now that we have our project created head up to Step 2 to start making the layout of the app.
  
-##### [Step 2](https://github.com/fnk0/TicEmojiToe/blob/master/step2.md)
+#### [Go to Step 2](https://github.com/fnk0/TicEmojiToe/blob/master/step2.md)

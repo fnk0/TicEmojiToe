@@ -8,10 +8,10 @@ The 1st thing you need to do is [Download Android Studio](https://developer.andr
 
 After Android studio is installed walk through the different steps of this codelab to create the app!
 
-#### Step 1: Creating the Project!
-#### Step 2: Defining the XML Layout
-#### Step 3: Styling the app!
-#### Step 4: Connecting everything together!
-#### Step 5: Finishing up the Details!
+#### [Step 1: Creating the Project!](https://github.com/fnk0/TicEmojiToe/blob/master/step1.md)
+#### [Step 2: Defining the XML Layout](https://github.com/fnk0/TicEmojiToe/blob/master/step2.md)
+#### [Step 3: Styling the app!](https://github.com/fnk0/TicEmojiToe/blob/master/step3.md)
+#### [Step 4: Connecting everything together!](https://github.com/fnk0/TicEmojiToe/blob/master/step4.md)
+#### [Step 5: Finishing up the Details!](https://github.com/fnk0/TicEmojiToe/blob/master/step5.md)
 #### Where to go from now?
 
