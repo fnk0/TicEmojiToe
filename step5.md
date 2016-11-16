@@ -124,3 +124,5 @@ public boolean onOptionsItemSelected(MenuItem item) {
 That's it! We are done!! Run the app and enjoy your work!! Try experimenting with different emoji's and colors!
 
 Congratulations!! You have your own game now!! Play with your friends and brag about how you made it!
+
+### [Where to go from now?](https://github.com/fnk0/TicEmojiToe#where-to-go-from-now)
