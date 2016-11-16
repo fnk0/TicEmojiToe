@@ -14,3 +14,16 @@ After Android studio is installed walk through the different steps of this codel
 #### [Step 4: Connecting everything together!](https://github.com/fnk0/TicEmojiToe/blob/master/step4.md)
 #### [Step 5: Finishing up the Details!](https://github.com/fnk0/TicEmojiToe/blob/master/step5.md)
 #### Where to go from now?
+
+Now that you know the basics try exploring Android by adding the following things to your app:
+
+* Add a simple AI to allow you to play vs a computer: [AI Reference](http://neverstopbuilding.com/minimax)
+* Allow players to choose their own name and Emoji.
+* Add a leaderboard for Different Player Names
+* Use Firebase to make the game online Multi Player
+* Allow users to customize colors and options
+ 
+Or... build another app! Try building an app for the community, your friends, dorm, etc.
+
+Thank you! If you have any questions or concerns about Android development please email me at marcus@gabilheri.com
+
