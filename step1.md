@@ -1,4 +1,4 @@
-# Creating the Project
+# Step 1: Creating the Project
 
 #### 1. After android studio has been installed launch it and you should see something similar to this:
 

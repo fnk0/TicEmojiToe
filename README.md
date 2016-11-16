@@ -14,4 +14,3 @@ After Android studio is installed walk through the different steps of this codel
 #### [Step 4: Connecting everything together!](https://github.com/fnk0/TicEmojiToe/blob/master/step4.md)
 #### [Step 5: Finishing up the Details!](https://github.com/fnk0/TicEmojiToe/blob/master/step5.md)
 #### Where to go from now?
-
