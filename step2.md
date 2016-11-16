@@ -128,7 +128,8 @@ Your _activity_main.xml_ It should look now like this:
 
 Great! We have the outer of our layout defined. Let's fill in the rest of the elements.
 
-We are going to add the Scores section first.
+We are going to add the Scores section first. For the next snippets of code look for comments for an
+extra explanation of some layout attributes.
 
 #### Adding the scores section:
 
@@ -186,6 +187,7 @@ We are going to add the Scores section first.
             android:gravity="center_horizontal"
             android:textSize="18sp"
             tools:text="4"/>
+        <!-- Note: using the tools namespace, will only render this inside AndroidStudio -->
 
         <TextView
             android:id="@+id/p2_score"
@@ -352,6 +354,8 @@ Next step we will add the end of our layout with the TextView to display the win
 
 ```xml
 <LinearLayout>
+    .. previous stuff here ...
+
     <TextView
         android:id="@+id/tv_winner"
         android:layout_width="wrap_content"
@@ -373,7 +377,16 @@ Next step we will add the end of our layout with the TextView to display the win
 </LinearLayout>
 ```
 
-Awesome! We now have the layout fully defined! 
-The next part is style it and make it look a bit better!
+Awesome! We now have the layout fully defined!
+We can now run the app and see in a emulator our phone how it renders. 
  
+To run the app in the toolbar press the button that looks like a "Play" button next to a dropdown that says "app".
+
+If you need help running the app on a emulator check the following link: https://developer.android.com/studio/run/emulator.html
+If you wish to run the app on your Android phone check the following link: https://developer.android.com/studio/run/device.html
+ 
+If you still need help raise your hand and ask for help! Don't get stuck! :)
+ 
+The next part is style it and make it look a bit better!
+
 ###[Go to step 3](https://github.com/fnk0/TicEmojiToe/blob/master/step3.md)
