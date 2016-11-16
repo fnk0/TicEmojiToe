@@ -1,5 +1,7 @@
 # TicEmojiToe
 
+![screenshot](https://github.com/fnk0/TicEmojiToe/blob/master/screenshots/screenshot1.png?raw=true =300x)
+
 Welcome to Tic Emoji Toe codelab! In this codelab you will create your very own
 Tic Tac Toe game using Emoji's! The project has 12 emoji's available to be used
 but feel free to change to other emoji's or images that make you happy! It's your game after all!
