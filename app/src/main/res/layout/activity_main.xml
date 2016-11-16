@@ -5,13 +5,14 @@
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:gravity="center"
-    android:orientation="vertical"
     android:paddingBottom="@dimen/activity_vertical_margin"
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.gabilheri.tictactoe.MainActivity">
+    tools:context="com.gabilheri.tictactoe.MainActivity"
+    android:gravity="center"
+    android:orientation="vertical"
+    >
 
     <TextView
         android:layout_width="match_parent"
@@ -88,7 +89,6 @@
         android:divider="@color/colorAccent"
         android:orientation="vertical"
         android:showDividers="middle">
-
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -212,6 +212,6 @@
         android:background="@drawable/btn_accent"
         android:padding="8dp"
         android:text="Restart Game"
-        android:textColor="@android:color/white"/>
+        />
 
 </LinearLayout>
