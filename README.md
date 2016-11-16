@@ -1,4 +1,4 @@
-# TicEmojiToe
+# Tic Emoji Toe
 
 ![screenshot](https://github.com/fnk0/TicEmojiToe/blob/master/screenshots/screenshot1.png?raw=true =300x)
 
